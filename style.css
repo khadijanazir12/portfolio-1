@@ -1,0 +1,25 @@
+/* Custom styles for the portfolio page */
+header h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  section h2 {
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  section h3 {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    color: #555;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
+  footer a {
+    color: #007bff;
+  }
